@@ -1,4 +1,4 @@
-test 9
+test 10
 <html>
   <Head>
     <title> Swagmode </title>
@@ -30,9 +30,11 @@ test 9
     <div id="container">
     <div id="content">
     <div id="contentleft">
+    
     <h1> Welcome to Swagmode Website! </h1>
     <p> Welcome to Swagmode Website, I really appreciate you checking out this Website.
     <p> discord.gg/Swagmode
+   
     </div>
     
     <div id="sidebar">
