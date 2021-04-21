@@ -1,6 +1,8 @@
 <html>
   <Head> Swagmode Website 
+    
     discord.gg/Swagmode
+    
     <title> Swagmode </title>
     
     <style>
