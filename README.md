@@ -1,4 +1,3 @@
-test 16 
 <html>
   <Head> Swagmode Website
     <title> Swagmode </title>
@@ -33,16 +32,24 @@ test 16
      <h1> Welcome to Swagmode Website! </h1>
     <p> Welcome to Swagmode Website, I really appreciate you checking out this Website.
     <p> discord.gg/Swagmode
-   </div>
+    </div>
     
     <div id="sidebar">
     
     <div class="sidebar-element">
-    <h3>Info</h3>
+    <h3> Info </h3>
     <p>discord.gg/Swagmode
     
     </div>
 
+    <div class="sidebar-element">
+    <h3>Unordered List</h3> 
+    <ul>
+    <li><a href="">List Item #1</a></li>
+    <li><a href="">List Item #2</a></li>
+    <li><a href="">List Item #3</a></li>
+    <ul>
+    
     </div>
     </div>
     
