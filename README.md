@@ -1,4 +1,4 @@
-test 8
+test 9
 <html>
   <Head>
     <title> Swagmode </title>
@@ -21,9 +21,9 @@ test 8
     
     <div id="navigation">    
     <ul>
-    <li><a> href=" ">Home</a></li>
-    <li><a> herf=" ">About</a></li>
-    <li><a> herf=" ">Info/Discord</a></li>
+    <li><a> href="">Home</a></li>
+    <li><a> herf="">About</a></li>
+    <li><a> herf="">Info/Discord</a></li>
     </ul>
     </div>
     
