@@ -1,5 +1,6 @@
 <html>
-  <Head> Swagmode Website
+  <Head> Swagmode Website 
+    discord.gg/Swagmode
     <title> Swagmode </title>
     
     <style>
@@ -12,27 +13,32 @@
       #sidebar {width: 280px; float: left;}
       #footer {width: 960px; margin: 0 auto;}
     </style>
+
     </Head>
+
     <Body>
+
     <div id="header">
     
     </div>
     
     <div id="navigation">    
-      <ul>
+    <ul>
       <li> <a> href="">Home</a>
       <li> <a> href="">About</a>
       <li> <a> href="">Contact</a>
-      </ul>
+    </ul>
     </div>
 
     <div id="container">
+
     <div id="content">
+
     <div id="contentleft">
      <h1> Welcome to Swagmode Website! </h1>
     <p> Welcome to Swagmode Website, I really appreciate you checking out this Website.
     <p> discord.gg/Swagmode
-    </div>
+   </div>
     
     <div id="sidebar">
     
@@ -43,13 +49,14 @@
     </div>
 
     <div class="sidebar-element">
+
     <h3>Unordered List</h3> 
     <ul>
     <li><a href="">List Item #1</a></li>
     <li><a href="">List Item #2</a></li>
     <li><a href="">List Item #3</a></li>
     <ul>
-    
+
     </div>
     </div>
     
