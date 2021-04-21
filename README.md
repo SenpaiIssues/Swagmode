@@ -20,11 +20,7 @@ test 10
     </div>
     
     <div id="navigation">    
-    <ul>
-    <li><a> href="">Home</a></li>
-    <li><a> herf="">About</a></li>
-    <li><a> herf="">Info/Discord</a></li>
-    </ul>
+  
     </div>
     
     <div id="container">
