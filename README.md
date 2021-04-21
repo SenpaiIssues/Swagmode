@@ -1,4 +1,4 @@
-test 6 
+test 7
 <html>
   <Head>
     <title> Swagmode </title>
@@ -8,7 +8,7 @@ test 6
       #header {width: 960px; min-height: 150px; margin 0 auto;}
       #navigation {width: 960px; margin: 0 auto;}
       #container {overflow: auto; width: 960px; margin: 0 auto}
-      #content {width: 960px; min-height: 400px; margin: 0 auto; background: #3262a6;}
+      #content {width: 960px; min-height: 400px; margin: 0 auto; background: #fff;}
       #contentleft {width: 580px; float: left margin-right: 20px;}
       #sidebar {width: 280px; float: left;}
       #footer {width: 960px; margin: 0 auto;}
