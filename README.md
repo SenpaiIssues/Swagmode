@@ -1,4 +1,4 @@
-test 12
+Test 13
 <html>
   <Head>
     <title> Swagmode </title>
@@ -23,9 +23,8 @@ test 12
       <ul>
       <li><a> href="">Home</a></li>
       <li><a> herf="">About</a></li>
-      <li><a> herf="">Info/Discord</a></li>
-
-    </ul>
+      <li><a> herf="">Contact</a></li>
+      </ul>
     </div>
 
     <div id="container">
@@ -34,7 +33,7 @@ test 12
      <h1> Welcome to Swagmode Website! </h1>
     <p> Welcome to Swagmode Website, I really appreciate you checking out this Website.
     <p> discord.gg/Swagmode
-   </div>
+    </div>
     
     <div id="sidebar">
     <div class="sidebar-element">
