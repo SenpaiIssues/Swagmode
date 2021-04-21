@@ -1,4 +1,4 @@
-test 7
+test 8
 <html>
   <Head>
     <title> Swagmode </title>
@@ -25,8 +25,6 @@ test 7
     <li><a> herf=" ">About</a></li>
     <li><a> herf=" ">Info/Discord</a></li>
     </ul>
-
-
     </div>
     
     <div id="container">
