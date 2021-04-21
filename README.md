@@ -1,4 +1,4 @@
-test 15
+test 16 
 <html>
   <Head> Swagmode Website
     <title> Swagmode </title>
@@ -21,9 +21,9 @@ test 15
     
     <div id="navigation">    
       <ul>
-      <li> <a> href="">Home</a></li>
-      <li> <a> href="">About</a></li>
-      <li> <a> href="">Contact</a></li>
+      <li> <a> href="">Home</a>
+      <li> <a> href="">About</a>
+      <li> <a> href="">Contact</a>
       </ul>
     </div>
 
